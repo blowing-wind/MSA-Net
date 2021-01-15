@@ -4,6 +4,8 @@ This repository is an improved version for [A2Net](https://github.com/VividLe/A2
 
 And the code of anchor-free module references [FCOS](https://github.com/open-mmlab/mmdetection/tree/master/configs/fcos).
 
+If you find the repository helpful to you, here is the anchor-based part [SSAD](https://github.com/blowing-wind/SSAD).
+
 ## Result
 
 The detection results on THUMOS14 dataset:
@@ -20,7 +22,7 @@ This repository is implemented with Pytorch 1.1.0 + Python3.
 
 The Two stream I3D feature could be downloaded from [A2Net](https://github.com/VividLe/A2Net).
 
-## Training and Testing of SSAD
+## Training and Testing
 
 1. To train the MSA-Net:
 
