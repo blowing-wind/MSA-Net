@@ -1,8 +1,8 @@
-A pytorch-version implementation codes for temporal action detection that combines the anchor-based and anchor-free method.
+![arch](https://github.com/blowing-wind/MSA-Net/blob/master/img/arch.png)
 
-This repository is an improved version for [A2Net](https://github.com/VividLe/A2Net).
+An temporal action detection approach named MSA-Net that combines anchor-based and anchor-free modules.
 
-And the code of anchor-free module references [FCOS](https://github.com/open-mmlab/mmdetection/tree/master/configs/fcos).
+This repository is an improved version of [A2Net](https://github.com/VividLe/A2Net), the code for anchor-free module references [FCOS](https://github.com/open-mmlab/mmdetection/tree/master/configs/fcos).
 
 If you find the repository helpful to you, here is the anchor-based part [SSAD](https://github.com/blowing-wind/SSAD).
 
