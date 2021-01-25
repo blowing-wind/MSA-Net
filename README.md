@@ -1,4 +1,4 @@
-An temporal action detection approach named MSA-Net that combines anchor-based and anchor-free modules.
+A temporal action detection approach named MSA-Net that combines anchor-based and anchor-free modules.
 
 ![arch](./img/arch.png)
 
