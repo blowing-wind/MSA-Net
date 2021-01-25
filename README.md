@@ -1,6 +1,6 @@
-![arch](https://github.com/blowing-wind/MSA-Net/blob/master/img/arch.png)
-
 An temporal action detection approach named MSA-Net that combines anchor-based and anchor-free modules.
+
+![arch](./img/arch.png)
 
 This repository is an improved version of [A2Net](https://github.com/VividLe/A2Net), the code for anchor-free module references [FCOS](https://github.com/open-mmlab/mmdetection/tree/master/configs/fcos).
 
